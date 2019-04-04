@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrentBus</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_back">Back</string>
+    <string name="eta_title">Estimated Time of Arrival</string>
+    <string name="route_spinner_title">Route:</string>
+    <string name="stop_spinner_title">Closest Stop:</string>
+    <string name="destination_spinner_title">Destination:</string>
+</resources>
